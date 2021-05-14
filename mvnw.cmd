@@ -178,14 +178,5 @@ if exist "%HOME%\mavenrc_post.cmd" call "%HOME%\mavenrc_post.cmd"
 if "%MAVEN_BATCH_PAUSE%" == "on" pause
 
 if "%MAVEN_TERMINATE_CMD%" == "on" exit %ERROR_CODE%
-21312321329r90ewf0wr09389r0we09r809we809we8r09ew890rwe09r90wer90we
-fdsfasfsdaf
-s
-fsa
-f
-asd
-fsa
-f
-asf
 
 exit /B %ERROR_CODE%
